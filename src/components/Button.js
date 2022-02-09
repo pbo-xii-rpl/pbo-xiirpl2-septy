@@ -5,9 +5,9 @@ function Button( {children, variant} ) {
     "fill-yellow":''
   }
 
-  const pickedVariant = variants{variant}
+  const pickedVariant = variants[variant]
     return (
-       <a className={'border px-10 py-2 font-semibold text-lg inline-block mt-8 ${pickedVariant}'}>
+       <a className={`border px-10 py-2 font-semibold text-lg inline-block mt-8 ${pickedVariant}`}>
           {children}
           </a>
     );
