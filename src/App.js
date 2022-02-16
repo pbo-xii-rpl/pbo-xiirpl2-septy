@@ -12,7 +12,6 @@ function App() {
 				<p className="text-lg text-gray-600 font-semibold text-center">
 					Mengenal saya secara singkat 
 				</p>
-
 			</section>
 		</>
 	);
