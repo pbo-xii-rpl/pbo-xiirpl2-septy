@@ -14,7 +14,7 @@ function HeroSection() {
 					<p className="text-white text-lg text-opacity-60 w-4/12 mx-auto leading-relaxed mt-5">
                         Sejak 13 tahun saya memulai programming. Sejak 3 tahun memulai UI design.
                     </p>
-          <Button variant="fill-yellow text-yellow-300">
+          <Button variant="fill-yellow">
             Pelajari
           </Button>             
 				</div>

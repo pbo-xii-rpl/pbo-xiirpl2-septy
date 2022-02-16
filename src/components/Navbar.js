@@ -11,7 +11,7 @@ function Navbar() {
 				<Nav/>
 			</div>
 			<div className="w-3/12">
-				<Button>
+		<Button variant="outline-yellow">
           Contact
         </Button>
 			</div>
